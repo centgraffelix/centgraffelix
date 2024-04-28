@@ -4,7 +4,7 @@ github- 👋 Hi, I’m @centgraffelix
 - 💞️ I’m looking to collaborate on love
 - 📫 How to reach me out
 - 😄 Pronouns: Male
-- ⚡ Fun fact: I'm gay
+- ⚡ Fun fact: 
 
 <!---
 centgraffelix/centgraffelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
